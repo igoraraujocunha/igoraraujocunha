@@ -32,3 +32,4 @@
   </a>
 </p>
 
+![Snake animation](https://github.com/igoraraujocunha/igoraraujocunha/blob/output/github-contribution-grid-snake.svg)
