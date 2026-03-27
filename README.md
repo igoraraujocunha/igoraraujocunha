@@ -39,4 +39,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/igoraraujocunha/igoraraujocunha/output/github-contribution-grid-snake-custom.svg" width="100%" />
   </picture>
 </p>
-
